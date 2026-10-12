@@ -55,9 +55,9 @@ export default function AboutCard({ desktop, expanded }: { desktop?: boolean; ex
               style={{ color: "rgba(255,255,255,0.88)" }}
             >
               <p>Hey, I'm Radhey, but most people call me <em>Rod</em>.</p>
-              <p>I'm a software engineer obsessed with the intersection of <em>finance and technology</em> — currently building data pipelines at Citi for consumer banking.</p>
-              <p>Before that, I managed infrastructure at Manulife, rebuilt internal tools at RBC, and ingested threat intelligence data for Canada's cyber security agency.</p>
-              <p>Outside of work, I'm usually staying active, building new projects, and spending time with the people who matter most.</p>
+              <p>I'm a software engineer obsessed with the intersection of <em>finance and technology</em>, currently building iOS and android apps to teach kids money.</p>
+              <p>Thanks to my internships, I've got the opportunity to build really cool stuff at Citi, Manulife, and RBC.</p>
+              <p>In my day-to-day, I'm usually staying active, watching movie analysis videos, or spending time with the people who matter most.</p>
               <p>Glad you stopped by. Feel free to look around and reach out!</p>
             </div>
           </div>

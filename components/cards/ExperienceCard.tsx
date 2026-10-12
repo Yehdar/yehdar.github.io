@@ -16,7 +16,7 @@ interface Transaction {
 }
 
 export const TRANSACTIONS: Transaction[] = [
-  { logo: "/experience/citi.png",        company: "Citi",                 role: "Software Engineer Intern,",         stack: "Banking Technology",       date: "Current", href: "https://www.linkedin.com/company/citi/",                  },
+  { logo: "/experience/citi.png",        company: "Citi",                 role: "Software Engineer Intern,",         stack: "Banking Technology",       date: "2026", href: "https://www.linkedin.com/company/citi/",                  },
   { logo: "/experience/manulife.png",    company: "Manulife",             role: "Software Engineer Intern,",         stack: "Global Wealth & Asset Management",      date: "2026",    href: "https://www.linkedin.com/company/manulife/"                         },
   { logo: "/experience/johnhancock.jpg", company: "John Hancock",         role: "Software Engineer Intern,",         stack: "Manulife US Segment",    date: "2025",    href: "https://www.linkedin.com/company/john-hancock/"                     },
   { logo: "/experience/rbc.png",         company: "Royal Bank of Canada", role: "Software Engineer Intern,",         stack: "Global Cyber Security Services",         date: "2025",    href: "https://www.linkedin.com/company/rbc/"                              },
